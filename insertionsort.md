@@ -1,5 +1,5 @@
 # Insertion Sort Projesi
-Bu dosya patika.dev'e ait olan Mehmet Ali Turhan tarafından yapılmış "Veri Yapıları ve Algoritmalar" dersinin Inserition Sort ödevini içermektedir.
+Bu dosya patika.dev'e ait olan "Veri Yapıları ve Algoritmalar" dersinin Insertion Sort ödevini içermektedir.
 
 >[22,27,16,2,18,6] > Insertion Sort
 
@@ -43,7 +43,7 @@ Yanıt:
 >[2,3,4,5,7,9,8,15,6]
 
 --------------------------
-Author: Mehmet Ali Turhan
+Yazar: Mehmet Ali Turhan
 
 **[Linkedin](https://www.linkedin.com/in/mehmet-ali-turhan-43669415b/g)**
 

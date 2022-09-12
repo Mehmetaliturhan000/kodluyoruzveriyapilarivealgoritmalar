@@ -1,5 +1,5 @@
 # Merge Sort Projesi
-Bu dosya patika.dev'e ait olan Mehmet Ali Turhan tarafından yapılmış "Veri Yapıları ve Algoritmalar" dersinin Merge Sort ödevini içermektedir.
+Bu dosya patika.dev'e ait olan "Veri Yapıları ve Algoritmalar" dersinin Merge Sort ödevini içermektedir.
 
 
 [16,21,11,8,12,22] -> Merge Sort
@@ -21,7 +21,7 @@ O(nlogn)
 [8,11,12,16,21,22]
 
 --------------------------
-Author: Mehmet Ali Turhan
+Yazar: Mehmet Ali Turhan
 
 **[Linkedin](https://www.linkedin.com/in/mehmet-ali-turhan-43669415b/g)**
 
