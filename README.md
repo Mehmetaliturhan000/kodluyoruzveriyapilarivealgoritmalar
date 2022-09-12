@@ -3,7 +3,7 @@
 Patika.dev kapsamında gerçekleştirilen veri yapıları ve algoritmalar derslerinde yapılan ödevleri içermektedir.
 
 --------------------------
-Author: Mehmet Ali Turhan
+Yazar: Mehmet Ali Turhan
 
 **[Linkedin](https://www.linkedin.com/in/mehmet-ali-turhan-43669415b/g)**
 
