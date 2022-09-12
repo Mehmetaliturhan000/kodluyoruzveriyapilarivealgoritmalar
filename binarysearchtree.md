@@ -37,11 +37,10 @@ Root 7'dir.
                /  \	
               0    3 
                    / \               
-                  2  4             
-
+                  2   4             
 
 --------------------------
-Author: Mehmet Ali Turhan
+Yazar: Mehmet Ali Turhan
 
 **[Linkedin](https://www.linkedin.com/in/mehmet-ali-turhan-43669415b/g)**
 
